@@ -1,0 +1,27 @@
+{
+
+	"ref" : [
+		"SPY",
+		"$TNX",
+		"QQQ"
+	],
+	"comparee" : [
+		"JNPR",
+		"SWBI",
+		"QYLD",
+		"SPY",
+		"$TNX"
+	],
+	"refx" : [
+		"SPY",
+		"$TNX",
+		"QQQ"
+	],
+	"ref" : [
+		"SPY"
+	],
+	"comparee" : [
+		"SPYV",
+		"SPYG"
+	]
+}
